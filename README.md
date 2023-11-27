@@ -2,6 +2,9 @@
 
 Welcome to the GalacticArt Pack - a collection of captivating space-themed images designed for use in space game projects.
 
+## Preview
+![New Project](https://github.com/jbezza123/GalacticArt-Pack/assets/83317736/5303477a-c6a8-41d9-8519-8e4b37fcec8c)
+
 ## Overview
 
 This repository contains a variety of art, including space scenes, planets, and celestial objects. These images are ideal for enhancing the visual appeal of your space game projects.
