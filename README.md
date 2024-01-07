@@ -5,6 +5,8 @@ Welcome to the GalacticArt Pack - a collection of captivating space-themed image
 ## Preview
 Resources: Pack 1
 ![New Project](https://github.com/jbezza123/GalacticArt-Pack/assets/83317736/5303477a-c6a8-41d9-8519-8e4b37fcec8c)
+![pack 2](https://github.com/jbezza123/GalacticArt-Pack/assets/83317736/486ce1ae-d83d-4b33-9b36-2ae48ea86b59)
+![moon](https://github.com/jbezza123/GalacticArt-Pack/assets/83317736/33066003-b178-486b-a9a0-ebed88640b29)
 
 ## Overview
 
